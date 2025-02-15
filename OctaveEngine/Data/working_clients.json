@@ -1,0 +1,27 @@
+{
+    "Best": [
+        "ANDROID_VR",
+        1.12137
+    ],
+    "Working": [
+        "ANDROID",
+        "ANDROID_VR",
+        "IOS",
+        "IOS_MUSIC",
+        "MEDIA_CONNECT"
+    ],
+    "Not Working": {
+        "WEB": "NOT Working, Returns -> RegexMatchError : INFO \u001b[91mget_throttling_function_name: could not find match for multiple in https://youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js\u001b[0m.",
+        "WEB_EMBED": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "WEB_MUSIC": "NOT Working, Returns -> RegexMatchError : INFO \u001b[91mget_throttling_function_name: could not find match for multiple in https://youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js\u001b[0m.",
+        "WEB_CREATOR": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "WEB_SAFARI": "NOT Working, Returns -> RegexMatchError : INFO \u001b[91mget_throttling_function_name: could not find match for multiple in https://youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js\u001b[0m.",
+        "MWEB": "NOT Working, Returns -> RegexMatchError : INFO \u001b[91mget_throttling_function_name: could not find match for multiple in https://youtube.com/s/player/e627e516/player_ias.vflset/en_US/base.js\u001b[0m.",
+        "ANDROID_MUSIC": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "ANDROID_CREATOR": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "ANDROID_TESTSUITE": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "ANDROID_PRODUCER": "NOT Working, Returns -> Error : INFO HTTP Error 403: Forbidden.",
+        "IOS_CREATOR": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable.",
+        "TV_EMBED": "NOT Working, Returns -> Video https://music.youtube.com/watch?v=yo01OWS4NlA is unavailable."
+    }
+}

@@ -1,0 +1,111 @@
+{
+        "playabilityStatus": {
+                "status": "LOGIN_REQUIRED",
+                "reason": "Sign in to confirm you\u2019re not a bot",
+                "errorScreen": {
+                        "playerErrorMessageRenderer": {
+                                "subreason": {
+                                        "runs": [
+                                                {
+                                                        "text": "This helps protect our community. "
+                                                },
+                                                {
+                                                        "text": "Learn more",
+                                                        "navigationEndpoint": {
+                                                                "clickTrackingParams": "CAAQu2kiEwjtyYLJxZGLAxVFhdgFHUpFMyI=",
+                                                                "urlEndpoint": {
+                                                                        "url": "https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube"
+                                                                }
+                                                        }
+                                                }
+                                        ]
+                                },
+                                "reason": {
+                                        "runs": [
+                                                {
+                                                        "text": "Sign in to confirm you\u2019re not a bot"
+                                                }
+                                        ]
+                                },
+                                "proceedButton": {
+                                        "buttonRenderer": {
+                                                "style": "STYLE_PRIMARY",
+                                                "size": "SIZE_DEFAULT",
+                                                "isDisabled": false,
+                                                "text": {
+                                                        "simpleText": "Sign in"
+                                                },
+                                                "navigationEndpoint": {
+                                                        "clickTrackingParams": "CAEQptEGIhMI7cmCycWRiwMVRYXYBR1KRTMi",
+                                                        "signInEndpoint": {
+                                                                "nextEndpoint": {
+                                                                        "clickTrackingParams": "CAEQptEGIhMI7cmCycWRiwMVRYXYBR1KRTMi",
+                                                                        "urlEndpoint": {
+                                                                                "url": ""
+                                                                        }
+                                                                }
+                                                        }
+                                                },
+                                                "trackingParams": "CAEQptEGIhMI7cmCycWRiwMVRYXYBR1KRTMi"
+                                        }
+                                },
+                                "thumbnail": {
+                                        "thumbnails": [
+                                                {
+                                                        "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                                                        "width": 140,
+                                                        "height": 100
+                                                }
+                                        ]
+                                },
+                                "icon": {
+                                        "iconType": "ERROR_OUTLINE"
+                                }
+                        }
+                },
+                "skip": {
+                        "playabilityErrorSkipConfig": {
+                                "skipOnPlayabilityError": false
+                        }
+                },
+                "pictureInPicture": {
+                        "pictureInPictureRenderer": {
+                                "offByDefault": false
+                        }
+                },
+                "contextParams": "Q0FFU0FnZ0I="
+        },
+        "trackingParams": "CAAQu2kiEwjtyYLJxZGLAxVFhdgFHUpFMyI=",
+        "onResponseReceivedEndpoints": [
+                {
+                        "clickTrackingParams": "CAAQu2kiEwjtyYLJxZGLAxVFhdgFHUpFMyI=",
+                        "elementsCommand": {
+                                "updateEntityCommand": {
+                                        "identifier": "Egsya2pvbFRMWl9NZyB0KAE%3D",
+                                        "transform": "CgQIAhAICgUIBBDqBxIECAEYARIkCAIYAiIeQhwIAxIEEgIIARoQGg4KDAgBEggIAjIECgIIASAEEgQIAxgDEgYIBBAEGAM="
+                                }
+                        }
+                }
+        ],
+        "adBreakHeartbeatParams": "Q0FBJTNE",
+        "frameworkUpdates": {
+                "entityBatchUpdate": {
+                        "mutations": [
+                                {
+                                        "entityKey": "Eg0KCzJram9sVExaX01nIPYBKAE%3D",
+                                        "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                                        "payload": {
+                                                "offlineabilityEntity": {
+                                                        "key": "Eg0KCzJram9sVExaX01nIPYBKAE%3D",
+                                                        "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+                                                }
+                                        }
+                                }
+                        ],
+                        "timestamp": {
+                                "seconds": "1737831162",
+                                "nanos": 648054574
+                        }
+                }
+        }
+}

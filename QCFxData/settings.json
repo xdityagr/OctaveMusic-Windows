@@ -1,0 +1,16 @@
+{
+    "Settings": {
+        "blurScalingFactor": 2,
+        "recursiveFixedUpdate": false,
+        "updateInterval": null,
+        "windowStateMonitoring": false,
+        "windowMoveMonitoring": true,
+        "otherWindowsStateMonitoring": false,
+        "desktopMonitoring": true,
+        "blurringFunction": 0,
+        "blurRadius": 40,
+        "blurLayerStylesheet": "background-color:none; border-radius:16px; padding:0px;",
+        "showWindowTitlebar": true,
+        "showWindowBorders": true
+    }
+}

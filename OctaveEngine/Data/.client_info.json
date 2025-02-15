@@ -1,0 +1,73 @@
+{
+    "not_working": {
+        "IOS": "LOGIN_REQUIRED",
+        "TVHTML5": "LOGIN_REQUIRED",
+        "TVANDROID": "Error : 404 Not Found: Requested entity was not found.",
+        "XBOXONEGUIDE": "Error : 404 Not Found: Requested entity was not found.",
+        "ANDROID_CREATOR": "Error : 400 Bad Request: Precondition check failed.",
+        "IOS_CREATOR": "Error : 400 Bad Request: Precondition check failed.",
+        "ANDROID_MUSIC": "LOGIN_REQUIRED",
+        "ANDROID_TV": "Error : 403 Forbidden: The caller does not have permission",
+        "IOS_MUSIC": "LOGIN_REQUIRED",
+        "MWEB_TIER_2": "Error : 404 Not Found: Requested entity was not found.",
+        "ANDROID_VR": "LOGIN_REQUIRED",
+        "ANDROID_UNPLUGGED": "LOGIN_REQUIRED",
+        "ANDROID_TESTSUITE": "UNPLAYABLE",
+        "WEB_MUSIC_ANALYTICS": "Error : 403 Forbidden: The caller does not have permission",
+        "IOS_UNPLUGGED": "LOGIN_REQUIRED",
+        "IOS_EMBEDDED_PLAYER": "Error : 404 Not Found: Requested entity was not found.",
+        "WEB_UNPLUGGED": "LOGIN_REQUIRED",
+        "WEB_EXPERIMENTS": "Error : 403 Forbidden: The caller does not have permission",
+        "TVHTML5_CAST": "Error : 404 Not Found: Requested entity was not found.",
+        "ANDROID_EMBEDDED_PLAYER": "Error : 403 Forbidden: The caller does not have permission",
+        "WEB_EMBEDDED_PLAYER": "UNPLAYABLE",
+        "TVHTML5_AUDIO": "UNPLAYABLE",
+        "TV_UNPLUGGED_CAST": "Error : 404 Not Found: Requested entity was not found.",
+        "TVHTML5_KIDS": "UNPLAYABLE",
+        "WEB_HEROES": "Error : 404 Not Found: Requested entity was not found.",
+        "WEB_CREATOR": "LOGIN_REQUIRED",
+        "TV_UNPLUGGED_ANDROID": "LOGIN_REQUIRED",
+        "IOS_LIVE_CREATION_EXTENSION": "Error : 403 Forbidden: The caller does not have permission",
+        "TVHTML5_UNPLUGGED": "UNPLAYABLE",
+        "IOS_MESSAGES_EXTENSION": "Error : 404 Not Found: Requested entity was not found.",
+        "IOS_UPTIME": "Error : 404 Not Found: Requested entity was not found.",
+        "WEB_UNPLUGGED_OPS": "UNPLAYABLE",
+        "TVHTML5_VR": "Error : 404 Not Found: Requested entity was not found.",
+        "ANDROID_TV_KIDS": "Error : 403 Forbidden: The caller does not have permission",
+        "TVHTML5_SIMPLY": "UNPLAYABLE",
+        "MUSIC_INTEGRATIONS": "Error : 403 Forbidden: The caller does not have permission",
+        "GOOGLE_ASSISTANT": "Error : 403 Forbidden: The caller does not have permission",
+        "TVHTML5_SIMPLY_EMBEDDED_PLAYER": "UNPLAYABLE",
+        "WEB_INTERNAL_ANALYTICS": "Error : 403 Forbidden: The caller does not have permission",
+        "GOOGLE_MEDIA_ACTIONS": "Error : 403 Forbidden: The caller does not have permission",
+        "WEB_PHONE_VERIFICATION": "Error : 403 Forbidden: The caller does not have permission",
+        "IOS_PRODUCER": "Error : 404 Not Found: Requested entity was not found.",
+        "TVHTML5_FOR_KIDS": "UNPLAYABLE"
+    },
+    "working": {
+        "WEB": [
+            {
+                "Time": 1.4530589580535889
+            },
+            "OK"
+        ],
+        "MWEB": [
+            {
+                "Time": 1.4723739624023438
+            },
+            "OK"
+        ],
+        "WEB_REMIX": [
+            {
+                "Time": 1.359135389328003
+            },
+            "OK"
+        ],
+        "WEB_PARENT_TOOLS": [
+            {
+                "Time": 1.2107465267181396
+            },
+            "OK"
+        ]
+    }
+}

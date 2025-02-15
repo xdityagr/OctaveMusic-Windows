@@ -1,0 +1,52 @@
+- Octave Music Development, 2024-2025, Aditya Gaur 
+
+
+Release Info : 
+    - Release Planned : World Music Day, 21 June, 2025 
+    - Release Version : 1.0.0Beta
+    - Release Type : Beta-Testing Phase, Propreiatory Software, Closed Source, Freemium
+    - Initial Release Platform : Windows, Linux
+    - Future Release Platforms : Android, iOS, MacOS
+
+Tasks :
+    - [ ] Update & polish UI
+    - [ ] Fix offline playback
+    - [ ] Add support for more file formats
+    - [ ] Fix known bugs : 
+        - [ ] App crashes, Laggy close
+        - [ ] Caching system not working
+        - [ ] Search is slow
+        - [ ] Continue playing after playback ends (Offline + Online)
+        - [ ] Fix laggy offline playback; Use VLC for now; Deprecate in future; 
+        - [ ] Fix queue system
+        - [ ] Fix player progress bar for offline playback
+        - [ ] Fix fullscreen mode does not let taskbar show
+        - [ ] Laggy window movement, QCFX Issues.
+        - [ ] httpx.ConnectError: [Errno 11001] getaddrinfo failed, when no internet connection is available.
+        - [ ] crash at setMedia
+        - [ ] stream expiration
+        - [ ] search crashes at certain keywords (i think)
+        - [ ] ERROR : In octaveFetch.py, line 535, in fetch_stream, "formats = data['streamingData']['adaptiveFormats']"  -> KeyError: 'streamingData'
+        - [ ] Above ERROR might be due to unavailability & playability status : {"status": "LOGIN_REQUIRED"} # Fuck you youtube.
+
+
+    - [ ] Add initial release features : 
+        - [ ] Basic Settings: Appearance, Playback (Quality, etc.), user profile, etc.
+        - [ ] Lyrics support
+        - [ ] Playlist support
+        - [ ] Music Recommendations on search, explore page
+        - [ ] User Profile, User Library
+        - [ ] User Authentication
+        - [ ] User Settings
+        - [ ] Advanced cover art caching
+        - [ ] Add animations, transitions
+        - [ ] Add support for custom themes
+        - [ ] Add support for custom plugins
+        - [ ] Improve & polish UI, Make it feel like home.
+        - [ ] Implement ai features.
+
+    - [ ] Implement new user authentication system
+    - [ ] Update the UI for better user experience
+    - [ ] Add support for new music file formats
+    - [ ] Improve performance of the music player : Decrease search time, startup time, mass offline files loading, etc.
+

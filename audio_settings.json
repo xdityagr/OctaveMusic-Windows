@@ -1,0 +1,9 @@
+{
+    "audioQualityScheme":
+    {
+        "preference": "QUALITY_FIRST",
+        "quality":"HIGH",
+        "codec":"opus"
+
+    }
+}

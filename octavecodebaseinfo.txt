@@ -1,0 +1,17 @@
+~ Octave Code Base Rules List ~
+
+1.Import statements rule:
+    Mention each import as Imports.<parent-lib-name>
+
+Object Types:
+    Widget
+    Setting
+    MainWindow
+    EventFilter
+    Other
+    ThreadWorker
+    
+Objects Definition Rule:
+    Mention OBJDEF <object-type>.<name> (description) in the comment.
+
+    
